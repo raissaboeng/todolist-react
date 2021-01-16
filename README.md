@@ -1,4 +1,4 @@
-﻿<h1 align="center">TodoList</h1> 
+<h1 align="center">TodoList</h1> 
 <p align="center">Uma aplicação Web para criação de lista de tarefas feita com ReactJS</p>
 
 <img src="src/assets/TodoList-React.gif">
